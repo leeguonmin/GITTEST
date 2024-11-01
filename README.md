@@ -12,6 +12,7 @@
 git init
 ```
 
+
 - GIT 설정
 ```bash
 git config user.name "GeonMin Lee"
@@ -59,6 +60,21 @@ git remote add origin https://github.com/leeguonmin/GITTEST.git
 ```bash
 git push -u origin master # 첫번째 푸시
 git push # 기본원격지 현재브랜치를 푸시
+```
+
+
+- 저장소 설정 
+
+
+
+- 원격지 변경 사항 확인 
+```bash
+git fetch
+```
+
+- 원격지 변경 사항 pull (내려받기)
+```bash
+git pull
 ```
 
 
