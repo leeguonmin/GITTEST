@@ -43,3 +43,7 @@ git status # 상태 확인
 git log # 로그 확인 
 ```
 
+### Local Git to GitHub
+- GitHub에서 저장서 생성
+- 저장소 주소 
+    - https://github.com/leeguonmin/GITTEST.git
